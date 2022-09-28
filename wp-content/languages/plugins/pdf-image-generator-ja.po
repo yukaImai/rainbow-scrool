@@ -1,0 +1,264 @@
+# Translation of Plugins - PDF Image Generator - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - PDF Image Generator - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-18 02:16:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - PDF Image Generator - Stable (latest release)\n"
+
+#: pdf-image-generator.php:500
+msgid "thumbnail of %s"
+msgstr "%sのサムネイル"
+
+#: pdf-image-generator.php:289
+msgid "Convert CMYK files to RGB."
+msgstr "CMYK ファイルを RGB に変換します。"
+
+#: pdf-image-generator.php:795
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: pdf-image-generator.php:320
+msgid "Your server using imageMagick %s"
+msgstr "あなたがお使いの ImageMagick のバージョンは %s です。"
+
+#: pdf-image-generator.php:285
+msgid "By unchecking this checkbox, the following will be disabled, and it helps to reduce memory spending."
+msgstr "このチェックボックスを外すと、以下の設定が無効化され、使用メモリが削減されます。"
+
+#: pdf-image-generator.php:285
+msgid "In case of frequent HTTP error when uploading PDF, there maybe not enough memory."
+msgstr "アップロード時にエラーが多発する場合、メモリが不足している可能性があります。"
+
+#: pdf-image-generator.php:307
+msgid "\"Default ( Title )\" allows to insert default html."
+msgstr "[デフォルト（タイトル）]を選択すると従来のhtmlが挿入されます。"
+
+#: pdf-image-generator.php:307
+msgid "If you are using a document viewer plugin like GDE, select it."
+msgstr "GDE 等のドキュメントビューワプラグインを使用する場合、こちらを選択します。"
+
+#: pdf-image-generator.php:306
+msgid "Default insert size ( or type )"
+msgstr "デフォルトの挿入サイズ（または形式）"
+
+#: pdf-image-generator.php:299 pdf-image-generator.php:846
+msgid "Default"
+msgstr "デフォルト"
+
+#: pdf-image-generator.php:290
+msgid "Background Color"
+msgstr "背景色"
+
+#: pdf-image-generator.php:288
+msgid "Select Generated Image File Type"
+msgstr "生成される画像の形式を選択"
+
+#: pdf-image-generator.php:288
+msgid "jpg"
+msgstr "jpg"
+
+#: pdf-image-generator.php:288
+msgid "png"
+msgstr "png"
+
+#: pdf-image-generator.php:145
+msgid "PDF IMG Generator"
+msgstr "PDF 画像ジェネレータ"
+
+#: pdf-image-generator.php:277
+msgid "Allow to set PDF thumbnail as Featured Image"
+msgstr "PDFのサムネイルをアイキャッチ画像として使用可能にする"
+
+#: pdf-image-generator.php:876
+msgid "Attachment Display Settings"
+msgstr "添付ファイルの表示設定"
+
+#: pdf-image-generator.php:873
+msgid "Right"
+msgstr "右"
+
+#: pdf-image-generator.php:872
+msgid "Center"
+msgstr "センター"
+
+#: pdf-image-generator.php:871
+msgid "Left"
+msgstr "左"
+
+#: pdf-image-generator.php:867
+msgid "Alignment"
+msgstr "配置"
+
+#: pdf-image-generator.php:301 pdf-image-generator.php:848
+msgid "Caption"
+msgstr "キャプション"
+
+#: pdf-image-generator.php:299 pdf-image-generator.php:846
+msgid "Title"
+msgstr "タイトル"
+
+#: pdf-image-generator.php:300 pdf-image-generator.php:847
+msgid "URL"
+msgstr "URL"
+
+#: pdf-image-generator.php:297 pdf-image-generator.php:844
+msgid "Large size"
+msgstr "大サイズ"
+
+#: pdf-image-generator.php:298 pdf-image-generator.php:845
+msgid "Full Size"
+msgstr "フルサイズ"
+
+#: pdf-image-generator.php:296 pdf-image-generator.php:843
+msgid "Medium size"
+msgstr "中サイズ"
+
+#: pdf-image-generator.php:295 pdf-image-generator.php:842
+msgid "Thumbnail"
+msgstr "サムネイルのサイズ"
+
+#: pdf-image-generator.php:838
+msgid "Media"
+msgstr "メディア"
+
+#: pdf-image-generator.php:827 pdf-image-generator.php:874
+msgid "None"
+msgstr "なし"
+
+#: pdf-image-generator.php:826
+msgid "Attachment Page"
+msgstr "添付ファイルのページ"
+
+#: pdf-image-generator.php:824
+msgid "PDF Media File"
+msgstr "PDF メディアファイル"
+
+#: pdf-image-generator.php:820
+msgid "Link To"
+msgstr "リンク先"
+
+#: pdf-image-generator.php:734
+msgid "PDF"
+msgstr "PDF"
+
+#: pdf-image-generator.php:336
+msgid "If you are having problems with the plugin, see the plugin page on <a href=\"https://wordpress.org/plugins/pdf-image-generator/\" target=\"_blank\">the WordPress.org plugin directory</a>."
+msgstr "不明点などがありましたら、<a href=\"http://web.contempo.jp/weblog/tips/p1522\" target=\"_blank\">公式ウェブサイトのコメント欄</a>よりお問い合わせください。"
+
+#: pdf-image-generator.php:334
+msgid "If you find this plugin useful and you want to support its future development, please consider making a donation."
+msgstr "もしプラグインがお役立ちだと感じられたら、今後の開発継続のためにいくらかの寄付をご検討ください。"
+
+#: pdf-image-generator.php:734 pdf-image-generator.php:745
+msgid "Image"
+msgstr "画像"
+
+#: pdf-image-generator.php:335
+msgid "Donate via PayPal"
+msgstr "PayPal で寄付する"
+
+#: pdf-image-generator.php:333
+msgid "Donate"
+msgstr "寄付"
+
+#: pdf-image-generator.php:330
+msgid "Regenerate and replace images of all PDFs"
+msgstr "すべての PDF 画像を再作成して置き換える"
+
+#: pdf-image-generator.php:329
+msgid "Generate images of PDFs that have no thumbnail"
+msgstr "サムネイルがない PDF 画像を作成する"
+
+#: pdf-image-generator.php:286
+msgid "Max Height"
+msgstr "高さの上限"
+
+#: pdf-image-generator.php:286
+msgid "Compression Quality"
+msgstr "圧縮率"
+
+#: pdf-image-generator.php:316
+msgid "If the plugin is deactivated, Generated Image files will be handled as ordinary image files."
+msgstr "プラグインを無効化した場合は、作成されたサムネイル画像は通常のイメージ画像と同様に取り扱われます。"
+
+#: pdf-image-generator.php:315
+msgid "Keep Generated Images after the plugin is uninstalled"
+msgstr "作成したサムネイル画像をプラグインのアンインストール後も保持する"
+
+#: pdf-image-generator.php:323
+msgid "Save changes"
+msgstr "変更を保存"
+
+#: pdf-image-generator.php:287
+msgid "The parameter will be calculated if 0 or blank is entered."
+msgstr "０または空が入力された場合は、パラメータは自動で計算されます。"
+
+#: pdf-image-generator.php:319
+msgid "Use imageMagick with exec function"
+msgstr "exec関数でimageMagickを実行する"
+
+#: pdf-image-generator.php:319
+msgid "Use imagick PHP Extension"
+msgstr "imagick PHP拡張モジュールを使用する"
+
+#: pdf-image-generator.php:286
+msgid "Max Width"
+msgstr "幅の上限"
+
+#: pdf-image-generator.php:243
+msgid "Back to PDF Image Generator Settings"
+msgstr "PDF Image Generatorの設定画面に戻る"
+
+#: pdf-image-generator.php:284
+msgid "Customize Generated Image properties"
+msgstr "作成画像の各種設定カスタマイズ"
+
+#: pdf-image-generator.php:268
+msgid "Default plugin settings"
+msgstr "プラグインのデフォルト機能"
+
+#: pdf-image-generator.php:274
+msgid "Display Generated Image instead of default wp mime-type icon"
+msgstr "既存のMIMEタイプアイコンの代わりに作成された画像を表示する"
+
+#: pdf-image-generator.php:182 pdf-image-generator.php:327
+msgid "Generate uploaded PDF thumbnails"
+msgstr "アップロード済みのPDFからサムネイルを作成"
+
+#: pdf-image-generator.php:280
+msgid "Hide Generated Images themselves in the Media Library"
+msgstr "作成したサムネイル画像のファイルそれ自体はライブラリ内で非表示にする"
+
+#: pdf-image-generator.php:269
+msgid "If you want to disable some functions, uncheck boxes below."
+msgstr "機能のいくつかを停止させる場合は、チェックボックスを外してください。"
+
+#: pdf-image-generator.php:281
+msgid "When this checkbox is unchecked and a PDF is deleted, a Generated Image will NOT be deleted together."
+msgstr "このチェックボックスが解除されているときは、PDFを削除しても作成された画像は削除されません。"
+
+#: pdf-image-generator.php:175
+msgid "Options saved."
+msgstr "変更を保存しました。"
+
+#: pdf-image-generator.php:63
+msgid "Please enable \"exec\" or \"imagick extension\" before activate!"
+msgstr "プラグインをアクティベートする前にexecかimagick拡張を有効化してください！"
+
+#: pdf-image-generator.php:51
+msgid "Please install \"GhostScript\" before activate the plugin!"
+msgstr "プラグインをアクティベートする前にGhostScriptをインストールしてください！"
+
+#: pdf-image-generator.php:61
+msgid "Please install \"ImageMagick\" and \"GhostScript\" before activate!"
+msgstr "プラグインをアクティベートする前にImageMagickとGhostScriptをインストールしてください！"
+
+#: pdf-image-generator.php:145 pdf-image-generator.php:267
+msgid "PDF Image Generator Settings"
+msgstr "PDF Image Generator 設定"
